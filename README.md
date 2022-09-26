@@ -5,7 +5,6 @@
 <hr/>
 <h4 align="center">I am pursing B.Tech. in CSE. Personaly, I am very enthusiast person who loves to develop Websites ,participate in hackathons, talk about Web-D and planning to dive into blockchain too.<h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshay-Kalekar&label=akshay-Kalekar's%20Profile%20Views%20&color=dc143c&style=plastic" alt="Arnav" /> </p>
 
 ## 🔥 Streak Stats
 
